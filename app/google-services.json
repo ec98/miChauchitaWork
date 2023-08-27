@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800244762793",
+    "project_id": "mi-chauchita",
+    "storage_bucket": "mi-chauchita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800244762793:android:b5701af95b8c4ded4081b8",
+        "android_client_info": {
+          "package_name": "com.chauchitalleres.michauchitawork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800244762793-e5cth2b2tvgjog9g24ij6nqk2i32p9v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBugghLAdExdt9QwJPydo_y_x-cPUEf_aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800244762793-e5cth2b2tvgjog9g24ij6nqk2i32p9v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

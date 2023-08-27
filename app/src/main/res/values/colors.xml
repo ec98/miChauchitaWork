@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_red">#B80202</color>
+    <color name="dark_blue">#042361</color>
+    <color name="green">#86E7B8</color>
+    <color name="fondo">#1c2334</color>
+    <color name="fondo2">#FBFBFB</color>
+    <color name="orange">#FF5722</color>
+    <color name="search_bg">#00BCD4</color>
+    <color name="rojo_suave">#FE5F6B</color>
+    <color name="plomo">#7C7C7C</color>
+    <color name="azul">#23599A</color>
+    <color name="celeste">#00A1F4</color>
+    <color name="pastel">#023e8a</color>
+    <color name="pastel_low">#91BAF1</color>
+    <color name="light_red">#E17676</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="powder_blue">#A9BCD0</color>
+    <color name="moonstone">#58A4B0</color>
+
+    <color name="amarillo">#FFC107</color>
+    <color name="transparente">#00FFFFFF</color>
+</resources>

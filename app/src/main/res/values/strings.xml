@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Chauchita Socios</string>
+    <string name="saludo">¡Hola! Bienvenido</string>
+    <string name="pepe">Cancelar</string>
+    <string name="app_binding_name">Servicios a ofrecer</string>
+    <string name="app_name_pantalla2">Pedidos Online</string>
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="redes_sociales">Conéctese usando las redes sociales</string>
+</resources>
